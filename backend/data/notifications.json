@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "type": "promotional",
+        "title": "Promotional Notification",
+        "content": "Buy this"
+
+    },
+    {
+        "id": 2,
+        "type": "transactional",
+        "title": "Transactional",
+        "content": "You purchased this"
+    
+
+    }
+]
+
