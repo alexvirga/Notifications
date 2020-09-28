@@ -1,13 +1,13 @@
 [
     {
-        "id": 1,
+        "id": "PRO-123",
         "type": "promotional",
         "title": "Promotional Notification",
         "content": "Buy this"
 
     },
     {
-        "id": 2,
+        "id": "TRNS-345",
         "type": "transactional",
         "title": "Transactional",
         "content": "You purchased this"
