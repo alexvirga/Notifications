@@ -2,17 +2,27 @@
     {
         "id": "PRO-123",
         "type": "promotional",
-        "title": "Promotional Notification",
-        "content": "Buy this"
+        "title": "New training: Drafting Bylaws",
+        "content": "Bylaws are the rules that govern your nonprofit"
 
     },
     {
         "id": "TRNS-345",
-        "type": "transactional",
-        "title": "Transactional",
-        "content": "You purchased this"
+        "type": "account",
+        "title": "Budget report for Q2 now available",
+        "content": ""
     
 
+    },
+
+    {
+        "id": "ACC-345",
+        "type": "account",
+        "title": "Annual 990-T Reminder",
+        "content": "Form 990 is due on the 15th"
+    
     }
+
+
 ]
 
